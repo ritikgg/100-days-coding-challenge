@@ -1,5 +1,3 @@
-package kunal;
-
 public class fibo {
     public static void main(String[] args) {
         int ans = fibo(50);
