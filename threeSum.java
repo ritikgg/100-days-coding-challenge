@@ -32,9 +32,4 @@ import java.util.List;
 
         return triplets;
     }
-
-     public static void main(String[] lol) {
-         int[] arr = {-1,0,1,2,-1,-4,0,0};
-         System.out.println(threeSum(arr));
-     }
 }
